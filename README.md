@@ -21,7 +21,7 @@ If you want to use joystick teleoperation, you should setup the hector_quadrotor
 
 ## Usage
 
-There are four packages included: crazyflie, crazyflie_description, crazyflie_controller, and crazyflie_demo.
+There are four packages included: crazyflie_driver, crazyflie_description, crazyflie_controller, and crazyflie_demo.
 
 ### Crazyflie_driver
 
